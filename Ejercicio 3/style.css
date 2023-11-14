@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+body {
+    background-color: #e3a0fd;
+    padding: 30px;
+}
+
+main {
+    display: flex;
+    gap: 10%;
+}
+
+.content {
+    color: #0d6000;
+}
+
+h2 {
+    font-size: 1.3rem;
+}
+
+#recomendations {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #be64e2;
+    background-color: #86d678;
+    padding: 20px 60px;
+    border-radius: 14px;
+}
+
+ul {
+    list-style: none;
+}
+
