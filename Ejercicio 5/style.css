@@ -7,8 +7,11 @@ body {
 }
 
 section {
-    text-align: center;
     padding: 20px 30px;
+}
+
+.title {
+    text-align: center;
 }
 
 h2 {

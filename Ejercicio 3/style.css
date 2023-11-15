@@ -6,17 +6,14 @@ body {
     margin: 0;
 }
 
-body {
+main {
+    display: flex;
+    gap: 10%;
     background-color: #e3a0fd;
     padding: 30px;
 }
 
-main {
-    display: flex;
-    gap: 10%;
-}
-
-.content {
+#content {
     color: #0d6000;
 }
 
